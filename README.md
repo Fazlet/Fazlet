@@ -3,7 +3,7 @@
 
 Интересы: Data Science, Machine Learning, Deep Learning, NLP
 
-Навыки: Python3, C++, теория вероятностей и математическая статистика
+Навыки: Python (PyTorch, Keras, TensorFlow, scikit-learn), C++, теория вероятностей и математическая статистика
 
 - 📫 Контакты: [Telegram](https://t.me/fazlet), ed.fazletdinov@gmail.com, [VK](https://vk.com/enakau) 
 
