@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет! Меня зовут Эдуард.
+#### Я студент 3 курса Факультета Компьютерных Наук НИУ "ВШЭ"
 
-<!--
-**Fazlet/Fazlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Интересы: Data Science, Machine Learning, Deep Learning, NLP
 
-Here are some ideas to get you started:
+Навыки: Python3, C++, теория вероятностей и математическая статистика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Контакты: [Telegram](https://t.me/fazlet), ed.fazletdinov@gmail.com, [VK](https://vk.com/enakau) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fazlet)
+
+<!---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim092001&show_icons=true)  
+!-->
+![Profile views](https://gpvc.arturio.dev/Fazlet)  
