@@ -4,26 +4,17 @@
 Programming languages:
 
 • Python (numpy, pandas, PyTorch)
-
 • C ++, C
-
 • SQL
 
 
 Knowledge:
-
 • Data Science
-
 • Machine Learning
-
 • Theory of Probabilities
-
 • Math statistics
-
 • Algorithms and data structures
-
 • Deep Learning, Neural Networks
-
 • NLP
 
 
