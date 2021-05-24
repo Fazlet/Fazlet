@@ -1,11 +1,21 @@
-### Привет! Меня зовут Эдуард.
-#### Я студент 3 курса Факультета Компьютерных Наук НИУ "ВШЭ"
+### Hi! My name is Eduard.
+#### I am a computer science student at HSE
 
-Интересы: Data Science, Machine Learning, Deep Learning, NLP
+Programming languages:
+• Python (numpy, pandas, PyTorch)
+• C ++, C
+• SQL
 
-Навыки: Python (PyTorch, Keras, TensorFlow, scikit-learn), C++, теория вероятностей и математическая статистика
+Knowledge:
+• Data Science
+• Machine Learning
+• Theory of Probabilities
+• Math statistics
+• Algorithms and data structures
+• Deep Learning, Neural Networks
+• NLP
 
-- 📫 Контакты: [Telegram](https://t.me/fazlet), ed.fazletdinov@gmail.com, [VK](https://vk.com/enakau) 
+- 📫 Contacts:: [Telegram](https://t.me/fazlet), ed.fazletdinov@gmail.com, [VK](https://vk.com/enakau), [LinkedIn](https://www.linkedin.com/in/eduardfazletdinov/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fazlet)
