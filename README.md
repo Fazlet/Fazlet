@@ -1,4 +1,4 @@
-### Hi! My name is Eduard.
+### Hi! My name is Eduard
 #### I am a computer science student at HSE
 
 Skills: Python (numpy, pandas, PyTorch) / C++ / SQL
