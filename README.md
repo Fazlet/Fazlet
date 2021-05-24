@@ -1,21 +1,16 @@
 ### Hi! My name is Eduard.
 #### I am a computer science student at HSE
 
-Programming languages:
-
-• Python (numpy, pandas, PyTorch)
-• C ++, C
-• SQL
-
+Skills: Python (numpy, pandas, PyTorch) / C++ / SQL
 
 Knowledge:
-• Data Science
-• Machine Learning
-• Theory of Probabilities
-• Math statistics
-• Algorithms and data structures
-• Deep Learning, Neural Networks
-• NLP
+- Data Science
+- Machine Learning
+- Theory of Probabilities
+- Math statistics
+- Algorithms and data structures
+- Deep Learning, Neural Networks
+- NLP
 
 
 - 📫 Contacts:: [Telegram](https://t.me/fazlet), ed.fazletdinov@gmail.com, [VK](https://vk.com/enakau), [LinkedIn](https://www.linkedin.com/in/eduardfazletdinov/)
