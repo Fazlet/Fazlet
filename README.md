@@ -16,3 +16,5 @@ Knowledge:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fazlet)
+
+<img src="https://komarev.com/ghpvc/?username=Fazlet&style=flat-square&color=blue" alt=""/>
